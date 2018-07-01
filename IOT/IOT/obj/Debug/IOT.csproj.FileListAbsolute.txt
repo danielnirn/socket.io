@@ -1,0 +1,14 @@
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\IOT.exe.config
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\IOT.exe
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\IOT.pdb
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\EngineIoClientDotNet.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\Newtonsoft.Json.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\SocketIoClientDotNet.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\SuperSocket.ClientEngine.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\System.Collections.Immutable.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\WebSocket4Net.dll
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\Newtonsoft.Json.xml
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\bin\Debug\System.Collections.Immutable.xml
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\obj\Debug\IOT.exe
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\obj\Debug\IOT.pdb
+c:\users\cv\documents\visual studio 2013\Projects\IOT\IOT\obj\Debug\IOT.csprojResolveAssemblyReference.cache
